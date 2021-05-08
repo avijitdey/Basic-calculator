@@ -1,0 +1,10 @@
+E:\C#\Project\BasicCalulator\BasicCalulator\bin\Debug\BasicCalulator.exe.config
+E:\C#\Project\BasicCalulator\BasicCalulator\bin\Debug\BasicCalulator.exe
+E:\C#\Project\BasicCalulator\BasicCalulator\bin\Debug\BasicCalulator.pdb
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.csprojAssemblyReference.cache
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.Form1.resources
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.Properties.Resources.resources
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.csproj.GenerateResource.cache
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.csproj.CoreCompileInputs.cache
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.exe
+E:\C#\Project\BasicCalulator\BasicCalulator\obj\Debug\BasicCalulator.pdb
